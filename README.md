@@ -42,5 +42,21 @@
    Listed 22 days ago
    Estimated value:
    $1,766,609 
- 
-   
+
+ - https://housesigma.com/on/markham-real-estate/for-sale/map/@43.892290,-79.274398,12.7z/?center_marker=43.8976885,-79.27664&view=map&municipality=10185&with_listing=amgL7AVDDMn3Z1MW
+
+    
+   17 Country Ridge DrMarkham - Wismer
+   Detached
+   Listed for: $ 1,899,000
+   Listed today
+   Estimated value:
+   $1,955,092 
+-  https://housesigma.com/on/for-sale/map/@43.846520,-79.410340,14z/?with_listing=2Zpj399DEvV3DrK8
+  
+   33 Berringer StRichmond Hill - Langstaff
+   Detached
+   Listed for: $ 1,598,000
+   Listed 7 days ago
+   Estimated value:
+   $1,663,157 
