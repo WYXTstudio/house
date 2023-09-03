@@ -35,13 +35,13 @@
    2022-05-142022-06-08$3,900Leased
 
   - https://housesigma.com/on/markham-real-estate/for-sale/map/@43.857239,-79.240902,15.2z/?center_marker=43.86377,-79.2217713&view=map&municipality=10185&with_listing=Z5BX3219bM47Dar0
-  - 
-   97 Song Bird DrMarkham - Rouge Fairways
-   Detached
-   Listed for: $ 1,688,888
-   Listed 22 days ago
-   Estimated value:
-   $1,766,609 
+
+   97 Song Bird DrMarkham - Rouge Fairways 
+   Detached 
+   Listed for: $ 1,688,888 
+   Listed 22 days ago 
+   Estimated value: 
+   $1,766,609  
 
  - https://housesigma.com/on/markham-real-estate/for-sale/map/@43.892290,-79.274398,12.7z/?center_marker=43.8976885,-79.27664&view=map&municipality=10185&with_listing=amgL7AVDDMn3Z1MW
 
