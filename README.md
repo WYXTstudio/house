@@ -63,7 +63,7 @@
 
 - https://housesigma.com/on/for-sale/map/@43.944130,-79.478000,14z/?with_listing=5VXv3l2G0exyj2q8
   
-30 Neopolitan CrtRichmond Hill - Oak Ridges
+   30 Neopolitan CrtRichmond Hill - Oak Ridges
    Detached  
    Listed for: $ 1,498,000  
    Listed 2 days ago  
@@ -78,4 +78,14 @@
    Estimated value:  
    $1,772,475   
    
-   
+
+- https://housesigma.com/on/for-sale/map/@43.904497,-79.459969,13.6z/?with_listing=bEDRYaGNadQ71VaB&view=map
+     
+   1 Apollo DrRichmond Hill - Jefferson  
+   Detached  
+   Listed for: $ 1,688,000  
+   Listed today  
+   Estimated value:  
+   $1,700,686
+
+  
