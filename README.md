@@ -59,4 +59,23 @@
    Listed for: $ 1,598,000
    Listed 7 days ago
    Estimated value:
-   $1,663,157 
+   $1,663,157
+
+- https://housesigma.com/on/for-sale/map/@43.944130,-79.478000,14z/?with_listing=5VXv3l2G0exyj2q8
+  
+30 Neopolitan CrtRichmond Hill - Oak Ridges
+   Detached  
+   Listed for: $ 1,498,000  
+   Listed 2 days ago  
+   Estimated value:  
+   $1,517,109   
+   
+- https://housesigma.com/on/for-sale/map/@43.940820,-79.433280,14z/?with_listing=1DBW7Rnpq2A7qlAp
+   18 Dovetail DrRichmond Hill - Oak Ridges Lake Wilcox
+   Detached  
+   Listed for: $ 1,779,000   
+   Listed 1 day ago  
+   Estimated value:  
+   $1,772,475   
+   
+   
