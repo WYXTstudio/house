@@ -1,7 +1,7 @@
 # house
 
 - https://housesigma.com/on/richmond-hill-real-estate/8-beth-ave/home/ZEXrx30zr0ZyOklN?id_listing=NkKJ3J1nnD17d4V6
-   
+   **offer review Sept 12**   
   8 Beth AveRichmond Hill - Jefferson
   Listed for: $ 1,699,000
   Listed today
@@ -62,7 +62,7 @@
    $1,663,157
 
 - https://housesigma.com/on/for-sale/map/@43.944130,-79.478000,14z/?with_listing=5VXv3l2G0exyj2q8
-  
+    **offer review Sept 12**  
    30 Neopolitan CrtRichmond Hill - Oak Ridges
    Detached  
    Listed for: $ 1,498,000  
@@ -88,4 +88,31 @@
    Estimated value:  
    $1,700,686
 
+
+- https://housesigma.com/on/vaughan-real-estate/for-sale/map/@43.855536,-79.501829,12.2z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=9w8o3m4GGqz7GKjm
+     
+   3 Swanage DrVaughan - Maple  
+   Detached  
+   Listed for: $ 1,630,000  
+   Listed 4 days ago  
+   Estimated value:  
+   $1,635,219
   
+- https://housesigma.com/on/for-sale/map/@43.937374,-79.462300,11.9z/?with_listing=Z5BX3219xGX7Dar0
+   
+   170 Kingshill Rd
+   Richmond Hill - Oak Ridges  
+   Detached  
+   Listed for: $ 1,499,900  
+   Listed 19 days ago  
+   Estimated value:  
+   $1,524,552
+  
+- https://housesigma.com/on/for-sale/map/@43.837974,-79.474573,12.5z/?with_listing=9w8o3m4JL6k7GKjm
+  
+   39 Lealinds RdVaughan - Patterson
+   Detached
+   Listed for: $ 1,888,000
+   Listed 20 days ago
+   Estimated value:
+   $1,940,687 
