@@ -41,7 +41,7 @@
    Listed for: $ 1,688,888 
    Listed 22 days ago 
    Estimated value: 
-   $1,766,609  
+   $1,766,609   
 
  - https://housesigma.com/on/markham-real-estate/for-sale/map/@43.892290,-79.274398,12.7z/?center_marker=43.8976885,-79.27664&view=map&municipality=10185&with_listing=amgL7AVDDMn3Z1MW
 
@@ -59,7 +59,7 @@
    Listed for: $ 1,598,000
    Listed 7 days ago
    Estimated value:
-   $1,663,157
+   $1,663,157 
 
 - https://housesigma.com/on/for-sale/map/@43.944130,-79.478000,14z/?with_listing=5VXv3l2G0exyj2q8
     **offer review Sept 12**  
@@ -68,7 +68,7 @@
    Listed for: $ 1,498,000  
    Listed 2 days ago  
    Estimated value:  
-   $1,517,109   
+   $1,517,109    
    
 - https://housesigma.com/on/for-sale/map/@43.940820,-79.433280,14z/?with_listing=1DBW7Rnpq2A7qlAp
    18 Dovetail DrRichmond Hill - Oak Ridges Lake Wilcox
@@ -76,7 +76,7 @@
    Listed for: $ 1,779,000   
    Listed 1 day ago  
    Estimated value:  
-   $1,772,475   
+   $1,772,475    
    
 
 - https://housesigma.com/on/for-sale/map/@43.904497,-79.459969,13.6z/?with_listing=bEDRYaGNadQ71VaB&view=map
@@ -86,7 +86,7 @@
    Listed for: $ 1,688,000  
    Listed today  
    Estimated value:  
-   $1,700,686
+   $1,700,686  
 
 
 - https://housesigma.com/on/vaughan-real-estate/for-sale/map/@43.855536,-79.501829,12.2z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=9w8o3m4GGqz7GKjm
@@ -96,7 +96,7 @@
    Listed for: $ 1,630,000  
    Listed 4 days ago  
    Estimated value:  
-   $1,635,219
+   $1,635,219  
   
 - https://housesigma.com/on/for-sale/map/@43.937374,-79.462300,11.9z/?with_listing=Z5BX3219xGX7Dar0
    
@@ -106,7 +106,7 @@
    Listed for: $ 1,499,900  
    Listed 19 days ago  
    Estimated value:  
-   $1,524,552
+   $1,524,552  
   
 - https://housesigma.com/on/for-sale/map/@43.837974,-79.474573,12.5z/?with_listing=9w8o3m4JL6k7GKjm
   
@@ -115,4 +115,38 @@
    Listed for: $ 1,888,000
    Listed 20 days ago
    Estimated value:
-   $1,940,687 
+   $1,940,687   
+
+- https://housesigma.com/on/vaughan-real-estate/for-sale,sold/map/@43.861778,-79.498663,12.4z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=0A9X3jLGeOKyvgxV
+  
+  226 Chayna CresVaughan - Patterson
+  Detached
+  Listed for: $ 1,588,000
+  Listed today
+  Estimated value:
+  $1,657,622  
+
+- https://housesigma.com/on/vaughan-real-estate/for-sale,sold/map/@43.861778,-79.498663,12.4z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=Xawjy4NlnKm3rR18
+  
+  168 Butterfield CresVaughan - Maple
+  Detached
+  Listed for: $ 1,680,000
+  Listed today
+  Estimated value:
+  $1,669,674  
+- https://housesigma.com/on/vaughan-real-estate/for-sale,sold/map/@43.929091,-79.464271,13.1z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=JRv53KpbEmPYVPW4
+  62 Grand Oak DrRichmond Hill - Oak Ridges
+  Detached
+  Listed for: $ 1,499,000
+  Listed today
+  Estimated value:
+  $1,537,801  
+
+- https://housesigma.com/on/vaughan-real-estate/for-sale,sold/map/@43.935529,-79.466475,14.3z/?center_marker=43.8563158,-79.5085383&view=map&municipality=10351&with_listing=2Zpj399DLVV3DrK8
+  
+26 Grand Oak DrRichmond Hill - Oak Ridges
+Detached
+Listed for: $ 1,869,000
+Listed 4 days ago
+Estimated value:
+$1,893,950  
