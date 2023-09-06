@@ -150,3 +150,12 @@ Listed for: $ 1,869,000
 Listed 4 days ago
 Estimated value:
 $1,893,950  
+
+- https://housesigma.com/on/markham-real-estate/327-william-forster-rd/home/weQp5yOozBwyd0ZE?id_listing=ZxwR7MVnJj23KabB
+  327 William Forster RdMarkham - Cornell
+  Detached
+  Listed for: $ 1,688,000
+  Listed 9 days ago
+  Estimated value:
+  $1,742,750
+  
