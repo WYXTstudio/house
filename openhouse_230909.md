@@ -74,3 +74,35 @@
  Sat, Sep 09 2:00 PM-4:00 PM
  Sun, Sep 10 2:00 PM-4:00 PM
  ```
+- 20 Waterhouse Way  **bad floor**
+  ```
+  Richmond Hill - Westbrook
+  Detached
+  Listed for: $ 1,789,900
+  Listed 2 days ago
+  
+  Estimated value:
+  $1,827,516 2% 
+  4+2 Bedrooms
+  5 Bathrooms
+  2 Garage
+  Open House
+  Sun, Sep 10 1:00 PM-3:00 PM
+  ```
+ - 2143 Rodick Rd
+  ```
+  Markham - Cachet
+  Detached
+  Listed for: $ 1,999,000
+  Listed 1 day ago
+  
+  Show Estimated Value
+  4+2 Bedrooms
+  5 Bathrooms
+  2 Garage
+  Open House
+  Sat, Sep 09 2:00 PM-5:00 PM
+  Sun, Sep 10 2:00 PM-5:00 PM
+  Sat, Sep 16 2:00 PM-5:00 PM
+  Sun, Sep 17 2:00 PM-5:00 PM
+  ```
