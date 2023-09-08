@@ -117,3 +117,18 @@
   $1,478,315
   Sun, 2:00 PM-5:00 PM
  ```
+- 16 Hamills Cres
+ ```
+ Richmond Hill - Devonsleigh
+ Detached
+ Listed for: $ 1,569,900
+ Listed 22 days ago
+ 
+ Estimated value:
+ $1,579,463 1% 
+ 3+1 Bedrooms
+ 4 Bathrooms
+ 2 Garage
+ Open House
+ Sat, Sep 09 1:00 PM-4:00 PM
+ ```
