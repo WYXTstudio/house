@@ -16,6 +16,18 @@ https://housesigma.com/on/for-sale/map/@43.837980,-79.568500,14z/?with_listing=e
 https://housesigma.com/on/for-sale/map/@43.851290,-79.499730,14z/?with_listing=mZRW7n2R80d7EBO9  
 
 
+second floor carpet (offer 155)  
+57 Ten Oaks Blvd Vaughan - Patterson Detached Listed for: $ 1,699,900 Listed 6 days ago Estimated value: $1,663,654 -2%   
+https://housesigma.com/on/for-sale/map/@43.835280,-79.483810,14z/?with_listing=K8OgYBp1Pw67JmG2  
+
+170   
+238 Summeridge Dr Vaughan - Patterson Detached Listed for: $ 1,868,000 Listed 2 days ago  Estimated value: $1,878,697 1%   
+https://housesigma.com/on/for-sale/map/@43.8319,-79.46429,14z/?with_listing=aD6p78NPVVJYwRQr 
+
+appple tree, my offer 155   
+558 Fossil Hill Rd Vaughan - Vellore Village Detached Listed for: $ 1,678,888 Listed 22 days ago Estimated value: $1,643,677 -2%   
+https://housesigma.com/on/for-sale/map/@43.839930,-79.565520,14z/?with_listing=0A9X3jLG064yvgxV   
+ 
 ```
 Open House Sat, Oct 21 2:00 PM-4:00 PM  Sun, Oct 22 2:00 PM-4:00 PM   
 11 Pitney Ave  Richmond Hill - Jefferson  Detached  Listed for: $ 1,597,000   Listed 15 days ago  Estimated value:  $1,569,008 -2%  
@@ -34,23 +46,12 @@ https://housesigma.com/on/for-sale/map/@43.8319,-79.46429,14z/?with_listing=4KAX
 
 
 
-170  
-238 Summeridge Dr Vaughan - Patterson Detached Listed for: $ 1,868,000 Listed 2 days ago  Estimated value: $1,878,697 1%   
-https://housesigma.com/on/for-sale/map/@43.8319,-79.46429,14z/?with_listing=aD6p78NPVVJYwRQr 
-
-
-
-appple tree, my offer 155  
-558 Fossil Hill Rd Vaughan - Vellore Village Detached Listed for: $ 1,678,888 Listed 22 days ago Estimated value: $1,643,677 -2%   
-https://housesigma.com/on/for-sale/map/@43.839930,-79.565520,14z/?with_listing=0A9X3jLG064yvgxV  
 
 
 
  
 
-second floor carpet (offer 155)
-57 Ten Oaks Blvd Vaughan - Patterson Detached Listed for: $ 1,699,900 Listed 6 days ago Estimated value: $1,663,654 -2%   
-https://housesigma.com/on/for-sale/map/@43.835280,-79.483810,14z/?with_listing=K8OgYBp1Pw67JmG2  
+
 
 
  
