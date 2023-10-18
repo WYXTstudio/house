@@ -7,10 +7,14 @@ offer 160
 11 Fairmont Ave  Vaughan - Maple   Listed for: $ 1,780,000  Listed in Jul 2023  Estimated value: $1,736,416 -2%   
 https://housesigma.com/on/for-sale/map/@43.860580,-79.535180,14z/?with_listing=nM697kV4GrOybmwe  
 
-131 
+131   
 24 Amy Wood Rd  Vaughan - Vellore Village  Detached Listed for: $ 1,399,000 Listed 1 day ago Estimated value: $1,392,310     
 https://housesigma.com/on/for-sale/map/@43.837980,-79.568500,14z/?with_listing=eQp5yOpjXxg7d0ZE    
- 
+
+154 -155  
+305 Lauderdale Dr Vaughan - Patterson Detached Listed for: $ 1,698,888  Listed 4 days ago Estimated value: $1,640,145 -3%   
+https://housesigma.com/on/for-sale/map/@43.851290,-79.499730,14z/?with_listing=mZRW7n2R80d7EBO9  
+
 
 ```
 Open House Sat, Oct 21 2:00 PM-4:00 PM  Sun, Oct 22 2:00 PM-4:00 PM   
@@ -28,9 +32,7 @@ https://housesigma.com/on/for-sale/map/@43.8319,-79.46429,14z/?with_listing=4KAX
 ```
 
 
-154 -155
-305 Lauderdale Dr Vaughan - Patterson Detached Listed for: $ 1,698,888  Listed 4 days ago Estimated value: $1,640,145 -3%   
-https://housesigma.com/on/for-sale/map/@43.851290,-79.499730,14z/?with_listing=mZRW7n2R80d7EBO9  
+
 
 170  
 238 Summeridge Dr Vaughan - Patterson Detached Listed for: $ 1,868,000 Listed 2 days ago  Estimated value: $1,878,697 1%   
