@@ -1,16 +1,17 @@
 
-offer 162 
+offer 162    
 123 Royview Cres Vaughan - Vellore Village   list price : 1,799,999   Estimated value: $1,736,253 -4%   
 https://housesigma.com/on/for-sale/map/@43.836310,-79.552140,14z/?with_listing=Z5BX321dRpb7Dar0  
 
-
+offer 160  
 11 Fairmont Ave  Vaughan - Maple   Listed for: $ 1,780,000  Listed in Jul 2023  Estimated value: $1,736,416 -2%   
 https://housesigma.com/on/for-sale/map/@43.860580,-79.535180,14z/?with_listing=nM697kV4GrOybmwe  
 
-
+```
+Open House Sat, Oct 21 2:00 PM-4:00 PM  Sun, Oct 22 2:00 PM-4:00 PM   
 11 Pitney Ave  Richmond Hill - Jefferson  Detached  Listed for: $ 1,597,000   Listed 15 days ago  Estimated value:  $1,569,008 -2%  
 https://housesigma.com/on/for-sale/map/@43.926610,-79.455860,14z/?with_listing=AKv53Dlp2Xd3MnxB  
-   
+```
 
 305 Lauderdale Dr Vaughan - Patterson Detached Listed for: $ 1,698,888  Listed 4 days ago Estimated value: $1,640,145 -3%   
 https://housesigma.com/on/for-sale/map/@43.851290,-79.499730,14z/?with_listing=mZRW7n2R80d7EBO9  
