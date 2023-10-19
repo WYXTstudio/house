@@ -1,5 +1,5 @@
 
-offer 162    
+offer 160   
 123 Royview Cres Vaughan - Vellore Village   list price : 1,799,999   Estimated value: $1,736,253 -4%   
 https://housesigma.com/on/for-sale/map/@43.836310,-79.552140,14z/?with_listing=Z5BX321dRpb7Dar0  
 
