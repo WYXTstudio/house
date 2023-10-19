@@ -41,6 +41,9 @@ Open House Sat, Oct 21 2:00 PM-4:00 PM   Sun, Oct 22 2:00 PM-4:00 PM
 6 Silmoro Crt  - Vaughan - Maple Detached Listed for: $ 1,689,000 Listed 6 days ago Estimated value:   $1,634,511 -3%  
 https://housesigma.com/on/vaughan-real-estate/6-silmoro-crt/home/nM697k5QRdGYbmwe?id_listing=AKv53DlpnZJ3MnxB  
 
+Open House  Sat, Oct 21 2:00 PM-4:00 PM  Sun, Oct 22 2:00 PM-4:00 PM 
+56 Regency View Hts  - Vaughan - Rural Vaughan Detached Listed for: $ 1,745,000 Listed 7 days ago Estimated value:   $1,658,735  -5%  
+https://housesigma.com/on/vaughan-real-estate/56-regency-view-hts/home/AKv53DDdAbk3MnxB?id_listing=9w8o3m4EM0z7GKjm 
 
 ---
 off 165   Sat, Oct 21 1:00 PM-3:00 PM Sun, Oct 22 2:00 PM-4:00 PM  
