@@ -74,9 +74,6 @@ https://housesigma.com/on/for-sale/map/@43.845320,-79.571060,14z/?with_listing=d
 
 
 
-20 Canterbury Crt Richmond Hill - Harding  Detached  Listed for: $ 1,599,000 Listed 11 days ago  Estimated value: $1,547,846 -3%   
-https://housesigma.com/on/for-sale/map/@43.866790,-79.432350,14z/?with_listing=GMnKYq0qo0b3w1Qr  
-
 
 
 308 Tower Hill Rd  Richmond Hill - Jefferson  Detached  Listed for: $ 1,688,000  Listed in Sep 2023  Estimated value:  $1,707,037 1%  
