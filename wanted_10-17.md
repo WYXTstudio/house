@@ -37,6 +37,11 @@ open house 21 22
 6 Kingsmead Crt Richmond Hill - Oak Ridges Lake Wilcox Detached  Listed for: $ 1,599,000  Listed 7 days ago Estimated value: $1,621,634 1%   
 https://housesigma.com/on/for-sale/map/@43.951980,-79.448220,14z/?with_listing=GMnKYq0qjKK3w1Qr   
 
+Open House Sat, Oct 21 2:00 PM-4:00 PM   Sun, Oct 22 2:00 PM-4:00 PM  
+6 Silmoro Crt  - Vaughan - Maple Detached Listed for: $ 1,689,000 Listed 6 days ago Estimated value:   $1,634,511 -3%  
+https://housesigma.com/on/vaughan-real-estate/6-silmoro-crt/home/nM697k5QRdGYbmwe?id_listing=AKv53DlpnZJ3MnxB  
+
+
 ---
 off 165   Sat, Oct 21 1:00 PM-3:00 PM Sun, Oct 22 2:00 PM-4:00 PM  
 47 Basie Gate Vaughan - Patterson Detached Listed for: $ 1,838,800 Listed today Estimated value: $1,792,804 -3%  
