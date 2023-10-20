@@ -49,6 +49,11 @@ https://housesigma.com/on/vaughan-real-estate/56-regency-view-hts/home/AKv53DDdA
 off 165   Sat, Oct 21 1:00 PM-3:00 PM Sun, Oct 22 2:00 PM-4:00 PM  
 47 Basie Gate Vaughan - Patterson Detached Listed for: $ 1,838,800 Listed today Estimated value: $1,792,804 -3%  
 https://housesigma.com/on/for-sale/map/@43.8319,-79.46429,14z/?with_listing=4KAX7NjrqWr7eRPJ
+
+Open House  Sat, Oct 21 2:00 PM-4:00 PM Sun, Oct 22 2:00 PM-4:00 PM 78 Toporowski AveRichmond Hill - Rouge Wood   
+https://housesigma.com/on/richmond-hill-real-estate/78-toporowski-ave/home/RdXze3emG5e38m9K?id_listing=DO1w3W9w5Vjy8Jg0   
+
+
 ```
 
 
